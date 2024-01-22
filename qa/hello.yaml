@@ -16,4 +16,4 @@ spec:
     spec:
       cotainers:
       - name: hello
-        image: johndavidmarx/gitops:hellov1.2.2
+        image: johndavidmarx/gitops:hellov1.1
